@@ -1,0 +1,2 @@
+# exercicio_es6
+ 
