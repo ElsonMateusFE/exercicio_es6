@@ -10,6 +10,6 @@ const notasDosAlunos = [
     { nome: 'Hugo', notas: 9.2 }
 ]
 
-const notasMaiorIgualASeis = notasDosAlunos.filter((item) => item.notas >= 6)
+const notasMaiorIgualASeis = notasDosAlunos.filter(item => item.notas >= 6)
 
 console.log(notasMaiorIgualASeis)
